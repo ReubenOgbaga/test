@@ -1,0 +1,4 @@
+pip install Streamlit
+import streamlit as st
+write the streamlit methods
+Run the app
