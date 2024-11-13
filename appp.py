@@ -22,7 +22,6 @@ import streamlit as st
 # Adding Interactive Widget
 st.button('Analyze your data')
 st.slider('Select a category',  0, 10)
-
 st.selectbox('Select a category', ['Emeka', 'Reuben', 'Prince', 'Rachel'])
 if st.checkbox('Click to show data'):
     st.selectbox('Select category', 'Emeka')
